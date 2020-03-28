@@ -1,4 +1,4 @@
-# tinlake-registry
+# Carbon-Tinlake-registry
 A registry keeps track of a set of values that can be updated through
 system-external logic. An example use case is a price feed that occassionally
 updtaes a list with new prices.
